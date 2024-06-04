@@ -2,11 +2,12 @@
 
 ###
 
+
 <p align="left">Me chamo Fernando, sou Dev FullStack e sou de MG</p>
 
 ###
 
-<h3 align="left">📚 Graduação</h3>
+<h1 align="left">📚 Graduação</h3>
 
 ###
 
@@ -14,7 +15,7 @@
 
 ###
 
-<h3 align="left">🔭Techs</h3>
+<h1 align="left">🔭Techs</h3>
 
 ###
 
