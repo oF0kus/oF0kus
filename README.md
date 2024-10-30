@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left">Me chamo Fernando, sou Dev FullStack e sou de MG</p>
+<p align="left">Me chamo Fernando e sou de MG</p>
 
 ###
 
