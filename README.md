@@ -31,7 +31,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/oF0kus/oF0kus/output/snake.svg" alt="Snake animation" />
-
-###
